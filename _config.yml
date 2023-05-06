@@ -9,7 +9,7 @@ description:        "The Kording Lab is a computational neuroscience and causali
 
 
 # URL
-url:                http://kordinglab.com
+url:                https://hyosubkim.github.io/ccmlab/
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
