@@ -24,6 +24,7 @@ highlighter:        rouge
 nav:
   - name:           "home"
 #     href:           "/"
+    href:           ""
   - name:           "about"
 #     href:           "/about"
     href:           "about"
