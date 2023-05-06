@@ -30,7 +30,7 @@ nav:
     href:           "about"
   - name:           "publications"
 #     href:           "/publications"
-    href:           "publications"
+    href:           "/ccmlab/publications"
   - name:           "people"
     href:           "/people"
 #   - name:           "blog"
