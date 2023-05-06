@@ -10,7 +10,7 @@ description:        "The CCM Lab is a motor learning research group at The Unive
 
 # URL
 url:                https://hyosubkim.github.io/ccmlab/
-baseurl:            
+baseurl:            /ccmlab
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
@@ -30,7 +30,7 @@ nav:
     href:           "about"
   - name:           "publications"
 #     href:           "/publications"
-    href:           "/ccmlab/publications"
+    href:           "publications"
   - name:           "people"
     href:           "/people"
 #   - name:           "blog"
