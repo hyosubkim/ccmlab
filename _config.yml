@@ -23,17 +23,17 @@ highlighter:        rouge
 # Navigation
 nav:
   - name:           "home"
-    href:           "/ccmlab"
+    href:           "."
   - name:           "about"
-    href:           "/ccmlab/about"
+    href:           "about"
   - name:           "publications"
-    href:           "/publications"
+    href:           "publications"
   - name:           "people"
-    href:           "/people"
+    href:           "people"
 #   - name:           "blog"
 #     href:           "/blog"
   - name:           "resources"
-    href:           "/resources"
+    href:           "resources"
 
 # Sass
 sass:
