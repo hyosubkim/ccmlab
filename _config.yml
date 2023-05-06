@@ -23,14 +23,11 @@ highlighter:        rouge
 # Navigation
 nav:
   - name:           "home"
-    href:           "/ccmlab"
-#     href:           ""
+    href:           "/"
   - name:           "about"
     href:           "/about"
-#     href:           "about"
   - name:           "publications"
     href:           "/publications"
-#     href:           "publications"
   - name:           "people"
     href:           "/people"
 #   - name:           "blog"
