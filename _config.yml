@@ -25,18 +25,18 @@ nav:
   - name:           "home"
     href:           "/"
   - name:           "about"
-#     href:           "/about"
-    href:           "about"
+    href:           "/about"
+#     href:           "about"
   - name:           "publications"
-#     href:           "/publication"
-    href:           "publication"
+    href:           "/publications"
+#     href:           "publications"
   - name:           "people"
     href:           "/people"
 #   - name:           "blog"
 #     href:           "/blog"
   - name:           "resources"
     href:           "/resources"
-    href:           "/resources"
+#     href:           "/resources"
 
 # Sass
 sass:
