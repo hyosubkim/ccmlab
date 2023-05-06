@@ -23,8 +23,8 @@ highlighter:        rouge
 # Navigation
 nav:
   - name:           "home"
-#     href:           "/"
-    href:           ""
+    href:           "/"
+#     href:           ""
   - name:           "about"
 #     href:           "/about"
     href:           "about"
