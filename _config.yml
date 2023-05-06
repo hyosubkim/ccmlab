@@ -5,7 +5,7 @@
 # Basic
 name:               "CCM Lab"
 title:              "CCM Lab at The University of British Columbia"
-description:        "The Kording Lab is a computational neuroscience and causality research group at the University of Pennsylvania."
+description:        "The CCM Lab is a motor learning research group at The University of British Columbia."
 
 
 # URL
@@ -23,11 +23,13 @@ highlighter:        rouge
 # Navigation
 nav:
   - name:           "home"
-    href:           "/"
+#     href:           "/"
   - name:           "about"
-    href:           "/about"
+#     href:           "/about"
+    href:           "about"
   - name:           "publications"
-    href:           "/publication"
+#     href:           "/publication"
+    href:           "publication"
   - name:           "people"
     href:           "/people"
   - name:           "blog"
