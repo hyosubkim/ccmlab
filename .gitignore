@@ -1,6 +1,8 @@
 
 # Created by https://www.gitignore.io/api/jekyll,pycharm,osx
 
+.ipynb_checkpoints/
+
 ### Jekyll ###
 _site/
 .sass-cache/
