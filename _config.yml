@@ -32,10 +32,11 @@ nav:
     href:           "publication"
   - name:           "people"
     href:           "/people"
-  - name:           "blog"
-    href:           "/blog"
+#   - name:           "blog"
+#     href:           "/blog"
   - name:           "resources"
-    href:           "/resources"
+    href:           "resources"
+#     href:           "/resources"
 
 # Sass
 sass:
