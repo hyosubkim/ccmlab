@@ -30,13 +30,13 @@ nav:
     href:           "about"
   - name:           "publications"
 #     href:           "/publications"
-    href:           "/publications"
+    href:           "publications"
   - name:           "people"
-    href:           "/people"
+    href:           "people"
 #   - name:           "blog"
 #     href:           "/blog"
   - name:           "resources"
-    href:           "/resources"
+    href:           "resources"
 #     href:           "/resources"
 
 # Sass
