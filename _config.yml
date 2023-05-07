@@ -9,7 +9,7 @@ description:        "The CCM Lab is a motor learning research group at The Unive
 
 
 # URL
-url:                http://ccmlab.org
+url:                http://ccmlab.org 
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
