@@ -2,64 +2,36 @@
 title: About
 permalink: /about/
 ---
-
-### About us
-We are a group of data scientists with interest in brains and, more general, biomedical research. Our research is more diverse than most labs, and also changes much more quickly! Right at the moment, much of the research in the lab is about deep learning and its applications. We also do a good bit of neural data analysis. Right now we are also very much interested in causality and its links with machine learning.
+### About us  
 
 ### Research
-Making sense of data is possibly the biggest problem in Neuroscience and beyond. We build algorithms to analyze data. We also use theory as well as computational and [neural modeling](https://en.wikipedia.org/wiki/Computational_neuroscience) to understand how information is processed in the nervous system, explaining data obtained in collaboration with [electrophysiologists](https://en.wikipedia.org/wiki/Electrophysiology) and in [psychophysical](https://en.wikipedia.org/wiki/Psychophysics) experiments. Lastly, we constrain and develop new technologies aimed at obtaining data about brains.
+How are humans able to acquire, retain, and adapt a seemingly limitless repertoire of skilled movements across the lifespan? Our lab aims to address this question and thereby shed light on fundamental principles of learning and memory in the healthy and diseased human motor system. Towards this aim, we combine theory with motor psychophysics, computational modeling, and patient testing. Our research into motor learning encompasses a wide range of behaviors, most prominently, the control of goal-directed reaching, an ideal model system to understand interactions between cognition and action given that reaching encompasses high-level decision-making and low-level automatic processes.  
 
-Our conceptual work addresses information processing in the nervous system from two angles: (1) By analyzing and explaining electrophysiological data, we study what neurons do. (2) By analyzing and explaining human behavior, we study what all these neurons do together. Much of our work looks at these questions from a normative or causal viewpoint, asking what problems the nervous system should be solving. This often means taking a Bayesian approach. Bayesian decision theory is the systematic way of calculating how the nervous system may make good decisions in the presence of uncertainty. Causal inference from observational data promises to be a key enabler for progress in science.
+Some important questions for the lab include: 
 
-We've pursued projects that involve handshake greetings, human movement, [cell-phone related parkinson's research](http://journal.frontiersin.org/article/10.3389/fneur.2012.00158/abstract), competitions at [Kaggle](https://www.kaggle.com/), [meta-science analysis](http://www.nature.com/nature/journal/v489/n7415/full/489201a.html), data sharing initiatives, and [recording from all neurons in a mouse](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002291).
+ - How does the recent history of our movements shape motor decision-making?   
+ - What are the computational principles involved in transitioning from the use of deliberative (cognitive) strategies to more automatic action selection?
+ - What are the relevant error signals for automatically (and finely) recalibrating our sensorimotor maps in the face of ever-changing environments and body states (i.e., sensorimotor adaptation)?
+ - How do vision and proprioception interact to guide our movements? 
+ - How do  neurologic disease processes (e.g., stroke or Parkinson's disease) differentially impact specific components of motor control and learning? 
 
-The best way to get a sense of what's currently going on in the lab is to check out the work of individual lab members:
+----------
 
-### Lab Members
+### Approach  
+**Motor psychophysics**       
+Our behavioral experiments incorporate virtual reality and robotics so that we can manipulate the visual and somatosensory information provided to participants. In this manner, we can assess unperturbed reaching as well as responses to different types of error signals.  
 
-Our research group is remarkably interdisciplinary. Our interests span statistics, physics, biology, applied mathematics, molecular biology, metascience, cognitive science, and many other disciplines. Visit our [people page](http://kordinglab.com/people/) to see more information on each person who works in the lab (publications, contact information, photos).
+
+**Computational modeling**      
+We use modeling to formalize, test, and refine our theories of the computations involved in learning and adapting motor skills. We apply different modeling approaches (e.g., Bayesian, reinforcement learning, state-space models) depending on the question. The behavioral data we collect often serve as a testbed for our models. In a complementary manner, our models also help generate new hypotheses and future experiments that advance our understanding of the processes under investigation.  
+ 
+
+**Patient testing**      
+We are interested in studying the impact of neurologic disorders, such as Parkinson’s disease, stroke, or cerebellar ataxia, on motor control and learning. We believe that increasing our fundamental knowledge of these diseases is a pathway to more sensitive behavioral assessments and targeted therapeutic interventions.
+
 
 ### Lab Culture
 
-Our lab is a wonderful spot for anyone who is super driven by curiosity and likes to learn/move through ideas quickly. Instead of one big "lab project", everyone is generally the chief of their own individual projects.
-
-Since our lab includes several fields, we don't have big lab meetings with everyone. Instead, we engage in a number of practices to facilitate good communication in the lab. Currently these include
-0. Weekly 'lab teachings' where someone teaches a thing. http://kordinglab.com/2018/08/29/upcoming-lab-teaching.html
-0. 'One-on-ones'. Every semester everyone in the lab is expected to sit down with everyone else for an hour.
-0. Lab tea time. It's tea! And science. A 10-minute talk by someone about anything, including their current work.
-0. Coding overviews. Structured like the one-on-ones
-0. A lab hammock, hangboard, and art on loan from the Penn Museum
-0. Monday morning donuts @ 9:00am
-
-Every week, more or less, we chat about current lab practices and sometimes vote on new things.
 
 ### Collaborators
 
-Here are some cool people in fields that interest us. **note:** This list is in no way complete. We have a lot of collaborators -- if you've collaborated with us and want a link here, let us know!
-
-**University of Pennsylvania:**
-- [Michael Platt - Dept of Neuroscience](http://plattlabs.rocks/)
-- [David Issadore - Dept of Bioengineering](http://cnt.upenn.edu/david-issadore)
-- [Jay Gottfried - Dept of Neurology](http://labs.feinberg.northwestern.edu/gottfried/)
-- [Raquel and Ruben Gur - Dept of Neuropsychiatry](http://www.med.upenn.edu/bbl/faculty-regur.html)
-- [Maria Geffen - Dept of Otorhinolaryngology](https://geffenlab.weebly.com/)
-- [Yale Cohen - Dept of Otorhinolaryngology](http://auditoryresearchlaboratory.weebly.com/)
-- [Dani Bassett - Dept of Bionengineering](https://www.danisbassett.com/)
-- [Andrew Tsourkas - Dept of Bioengineering](http://www.seas.upenn.edu/~atsourk/)
-- [Jason Moore - Dept of Biostatistics](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8803452)
-- [Lyle Ungar - Dept of CIS](http://www.cis.upenn.edu/~ungar/)
-
-**Northwestern University:**
-- [Lee Miller - Depts of Physiology and BME](http://physio.northwestern.edu/)
-- [Mark Segraves - Depts of Neurobiology and Physiology](http://www.neurobiology.northwestern.edu/people/core-faculty/mark-segraves.html)
-- [Matt Tresch - Depts of Physiology and BME](http://www.mccormick.northwestern.edu/biomedical/)
-- [David Mohr - Dept of Preventive medicine](http://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=17234)
-
-
-**External:**
-
-- [Scott Grafton - UCSB](https://www.psych.ucsb.edu/people/faculty/grafton)
-- [Nicho Hatsopoulos - University of Chicago](http://pondside.uchicago.edu/oba/faculty/Hatsopoulos/lab/)
-- [Peter Strick - University of Pittsburgh](http://www.cnbc.cmu.edu/faculty/strick-peter-l/view-details)
-- [Mriganka Sur - MIT](http://surlab.mit.edu/)
-- [Rob Turner - University of Pittsburgh](http://www.neurobio.pitt.edu/faculty/turner.htm)
