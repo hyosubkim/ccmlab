@@ -3,20 +3,10 @@ title: Publication
 permalink: /publication/
 ---
 
-
-
-<hr>
-
-### 2022
-
-## **Publications** ##  
-----
  
-[A reliable and efficient adaptive Bayesian method to assess static lower limb position sense][1] 
-Wood JM, Morton SM$^{+ +}$, **Kim HE**$^{+ +}$   
-*Journal of Neuroscience Methods* 2023
-
-&nbsp;   
+[A reliable and efficient adaptive Bayesian method to assess static lower limb position sense][1]   
+Jonathan M Wood, Susanne M Morton, Hyosub E Kim  
+*Journal of Neuroscience Methods*, 2023
 
 [Assessing corticospinal excitability during goal-directed reaching behavior][2] 
 Gomez IN, Orsinger SR, **Kim HE**, Greenhouse I (2022)  
