@@ -108,19 +108,25 @@ def print_markdown(paper_dict):
     """
 
     # it appears that only patents are missing author/journal
+    # if AUTHOR in paper_dict and JOURNAL in paper_dict:
+    #     print("_{}_<br>".format(paper_dict[TITLE]))
+    #     print("{}<br>".format(paper_dict[AUTHOR]))
+    #     print("{}, {} ([Article]({}))".format(
+    #         paper_dict[JOURNAL],
+    #         paper_dict[PUB_DATE].split("/")[0],
+    #         paper_dict[URL],
+    #     ))
     if AUTHOR in paper_dict and JOURNAL in paper_dict:
-        print("_{}_<br>".format(paper_dict[TITLE]))
+        print("[_{}_]({})<br>".format(paper_dict[TITLE], paper_dict[URL]))
         print("{}<br>".format(paper_dict[AUTHOR]))
-        print("{}, {} ([Article]({}))".format(
+        print("{}, {}".format(
             paper_dict[JOURNAL],
-            paper_dict[PUB_DATE].split("/")[0],
-            paper_dict[URL],
+            paper_dict[PUB_DATE].split("/")[0]
         ))
 
 if __name__ == "__main__":
     # konrad_profile_url = "https://scholar.google.com/citations?hl=en&user=MiFqJGcAAAAJ&view_op=list_works&sortby=pubdate"
     konrad_profile_url = "https://scholar.google.com/citations?hl=en&user=VcDGaIoAAAAJ&view_op=list_works&sortby=pubdate"
-    https://scholar.google.com/citations?hl=en&user=VcDGaIoAAAAJ&view_op=list_works&sortby=pubdate
     session = HTMLSession()
     citation_links = get_citation_links(session, konrad_profile_url)
 
