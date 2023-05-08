@@ -1,13 +1,13 @@
 ---
-name: Konrad Kording
-position: 
-avatar: konrad_profile_3.jpg
-twitter: KordingLab
+name: Hyosub Kim
+position: pi
+avatar: hyosub_headshot.jpeg
+twitter: 
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-- _Penn Integrated Knowledge Professor, University of Pennsylvania_<br>
+<!-- - _Penn Integrated Knowledge Professor, University of Pennsylvania_<br>
 - _Science coach. Collaborator. Transdisciplinary optimist._
 
 <i class="fa fa-envelope-o"></i> `kording@upenn.edu`
@@ -23,3 +23,4 @@ of this main thrust he is interested in applications of causality in biomedical 
 Konrad has trained as student at ETH Zurich with Peter Konig, as postdoc at UCL London with Daniel
 Wolpert and at MIT with Josh Tenenbaum. After a decade at Northwestern University he is now
 PIK professor at UPenn.
+ -->
