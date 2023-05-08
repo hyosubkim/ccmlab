@@ -32,8 +32,8 @@ nav:
     href:           "/people"
 #   - name:           "blog"
 #     href:           "/blog"
-  - name:           "resources"
-    href:           "/resources"
+#   - name:           "resources"
+#     href:           "/resources"
 
 # Sass
 sass:
