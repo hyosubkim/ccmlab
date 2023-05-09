@@ -1,7 +1,7 @@
 ---
 name: Could this be you?
 position: gradstudent
-avatar: douglas-fir.png
+avatar: douglas-fir.jpg
 twitter: 
 ---
 
