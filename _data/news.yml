@@ -1,11 +1,11 @@
 - date: 2023-05-06
-  details: May 6, 2023: Jonathan's <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165027023000948?via%3Dihub">new paper</a> published in Journal of Neuroscience Methods!
+  details: (May 6, 2023) Jonathan's new <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165027023000948?via%3Dihub">paper</a> published in Journal of Neuroscience Methods!
 
 - date: 2023-04-26
-  details: (April 26, 2023) New <a href="https://psyarxiv.com/r3kxp/">preprint</a> on bayes-toolbox, our Python package for Bayesian statistics.
+  details: (April 26, 2023) New <a href="https://psyarxiv.com/r3kxp/">preprint</a> submitted to PsyArXiv on bayes-toolbox, our Python package for Bayesian statistical modeling.
 
 - date: 2023-04-17
-  details: (April 17, 2023) Hyosub gave a presentation on the Bayesian Statistics Toolbox at <a href="https://discourse.pymc.io/t/pymcon-web-series-05-the-bayesian-statistics-toolbox-april-17th-2023-hyosub-kim/11845">PyMCon</a>.
+  details: (April 17, 2023) Hyosub gave a presentation at <a href="https://discourse.pymc.io/t/pymcon-web-series-05-the-bayesian-statistics-toolbox-april-17th-2023-hyosub-kim/11845">PyMCon</a> on <a href="https://hyosubkim.github.io/bayes-toolbox/">bayes-toolbox</a> (formerly known as the Bayesian Statistics Toolbox). 
 
 - date: 2022-11-12
   details: "Richard gave a lab teaching on neural tangent kernels: <a href='https://docs.google.com/presentation/d/1YARbyIXu3VQA0gLaqEgHa2GTdX71_fPTIXkxQMUEZho/edit#slide=id.p'> WTH is NTK? </a>"
