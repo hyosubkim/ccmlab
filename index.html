@@ -32,11 +32,11 @@ layout: default
                 {% for new in site.data.news %}
                   {% capture date %}{{new.date | date: '%s' | plus: 0 %}}{% endcapture %}
                   {% if date > now %}
-                    <li>
+                    <p>
                       <span>
                         {{ new.details }}
                       </span>
-                    </li>
+                    </p>
                   {% endif %}
                 {% endfor %}
               </ul>
