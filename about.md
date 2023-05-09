@@ -16,23 +16,13 @@ Some important questions for the lab include:
  - How do vision and proprioception interact to guide our movements? 
  - How do  neurologic disease processes (e.g., stroke or Parkinson's disease) differentially impact specific components of motor control and learning? 
 
-----------
-
 ### Approach  
 **Motor psychophysics**       
 Our behavioral experiments incorporate virtual reality and robotics so that we can manipulate the visual and somatosensory information provided to participants. In this manner, we can assess unperturbed reaching as well as responses to different types of error signals.  
 
-
 **Computational modeling**      
 We use modeling to formalize, test, and refine our theories of the computations involved in learning and adapting motor skills. We apply different modeling approaches (e.g., Bayesian, reinforcement learning, state-space models) depending on the question. The behavioral data we collect often serve as a testbed for our models. In a complementary manner, our models also help generate new hypotheses and future experiments that advance our understanding of the processes under investigation.  
- 
 
 **Patient testing**      
 We are interested in studying the impact of neurologic disorders, such as Parkinson’s disease, stroke, or cerebellar ataxia, on motor control and learning. We believe that increasing our fundamental knowledge of these diseases is a pathway to more sensitive behavioral assessments and targeted therapeutic interventions.
-
-
-### Lab Culture
-
-
-### Collaborators
 
