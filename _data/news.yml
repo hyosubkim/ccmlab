@@ -1,3 +1,9 @@
+- date: 2023-05-06
+  details: Jonathan's <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165027023000948?via%3Dihub">new paper</a> published in Journal of Neuroscience Methods! 
+
+- date: 2023-04-26
+  details: New <a href="https://psyarxiv.com/r3kxp/">preprint</a> on bayes-toolbox, our Python package for Bayesian statistics.
+
 - date: 2023-04-17
   details: Hyosub gave a presentation on the Bayesian Statistics Toolbox at <a href="https://discourse.pymc.io/t/pymcon-web-series-05-the-bayesian-statistics-toolbox-april-17th-2023-hyosub-kim/11845">PyMCon</a>.
 
