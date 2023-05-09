@@ -29,7 +29,7 @@ permalink: /people/
  {% elsif role == 'others' %}
 <h3>Honorary Members</h3>
  {% elsif role == 'alumni' %}
-<h3>Alumni</h3>
+<h3>Alumni and Former Trainees</h3>
 {% endif %}
 </div>
 
@@ -42,7 +42,7 @@ permalink: /people/
           {% if profile.avatar %}
             <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
           {% else %}
-            <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="http://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg"></a>
+            <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{site.baseurl}}/images/people/douglas-fir.png"></a>
           {% endif %}
           <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
         </p>
@@ -56,9 +56,18 @@ permalink: /people/
 
 <br>
 
-| Who are they | When were they here | Where they went |
+| Who | When | Next destination |
 | :------------- |:-------------| :-----------|
-| [Prof Silliamton](https://google.com/) | Graduate student (2016-2022) | Postdoc with Big Professor |
+| Jonathan Wood (co-advised with Susanne Morton) | PhD student (2018-2023) | Postdoc at Moss Rehabilitation Institute |
+| [Jonathan Tsay](https://www.tsaylab.com/) (primary advisor: Rich Ivry) | PhD student (2018-2023) | Postdoc at University College London || John Buggeln | PhD student (2022-2023) | PhD student in Cashaback Lab at University of Delaware |
+| Joie Tang | Undergraduate RA and lab manager (2019-2023) | DPT student at University of Delaware |
+| Heran Yosef | Undergraduate RA and lab manager (2020-2022) | Med school student at Thomas Jefferson University |
+| Nicholas Sekulski | Undergraduate RA (2021-2022) | Master's student in Biopharmaceutical Sciences at University of Delaware |
+| [Kaneel Senevirathne](https://www.linkedin.com/in/kaneel123) | Master's student (2020-2021) | AI/ML Researcher at Johns Hopkins University |
+| Megan Philips | Summer rotation student (2020) | Undergraduate student at Wayne State University |
+| Gabby Kowalski | Lab Manager (2020) | OTD student at The Ohio State University |
+| Chanel Smith | Undergraduate RA (2019-2020) | Quality Control Microbiologist at AGC |
+
 
 {% endif %}
 {% endfor %}

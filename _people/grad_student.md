@@ -1,5 +1,5 @@
 ---
-name: Very excellent grad student
+name: You?
 position: gradstudent
 avatar: 
 twitter: 
