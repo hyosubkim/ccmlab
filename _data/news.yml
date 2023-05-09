@@ -1,9 +1,5 @@
 - date: 2023-05-06
-<<<<<<< HEAD
   details: (May 6, 2023) Jonathan's new <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165027023000948?via%3Dihub">paper</a> published in Journal of Neuroscience Methods!
-=======
-  details: May 6, 2023: Jonathan's new <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165027023000948?via%3Dihub">paper</a> published in Journal of Neuroscience Methods!
->>>>>>> a96d1662a79401c25f607aabfec1d8fafb262174
 
 - date: 2023-04-26
   details: (April 26, 2023) New <a href="https://psyarxiv.com/r3kxp/">preprint</a> submitted to PsyArXiv on bayes-toolbox, our Python package for Bayesian statistical modeling.
