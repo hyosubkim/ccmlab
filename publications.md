@@ -2,6 +2,10 @@
 title: Publication
 permalink: /publication/
 ---
+[_bayes-toolbox: A Python package for Bayesian statistics_](https://psyarxiv.com/r3kxp/)<br>
+Hyosub E Kim<br>
+PsyArXiv, 2023
+
 [_A reliable and efficient adaptive Bayesian method to assess static lower limb proprioception._](https://www.sciencedirect.com/science/article/abs/pii/S0165027023000948?via%3Dihub)<br>
 Jonathan M Wood, Susanne M Morton, Hyosub E Kim<br>
 Journal of Neuroscience Methods, 2023
