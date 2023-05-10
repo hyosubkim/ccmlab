@@ -12,14 +12,14 @@ twitter:
 <!-- <i class="fa fa-envelope-o"></i> `hyosub.kim@ubc.ca` -->
 <a href="mailto:hyosub.kim@ubc.ca"><i class="fa fa-envelope-o"></i> hyosub.kim@ubc.ca</a>
 
-<!-- **Office**<br>
-404B Richards, 3700 Hamilton Walk <br>
-Philadelphia, PA 19104
+<!-- **Office** -->
+***More info coming soon!***
 
-[Konrad Kording](http://koerding.com/) runs his lab at the University of Pennsylvania.
+<!-- [Konrad Kording](http://koerding.com/) runs his lab at the University of Pennsylvania.
 Konrad is interested in the question of how the brain solves the credit assignment problem and
 similarly how we should assign credit in the real world (through causality). In extension
 of this main thrust he is interested in applications of causality in biomedical research.
 Konrad has trained as student at ETH Zurich with Peter Konig, as postdoc at UCL London with Daniel
 Wolpert and at MIT with Josh Tenenbaum. After a decade at Northwestern University he is now
 PIK professor at UPenn. -->
+

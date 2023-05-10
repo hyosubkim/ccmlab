@@ -12,13 +12,13 @@ Some important questions for the lab include:
 
  - How does the recent history of our movements shape motor decision-making?   
  - What are the computational principles involved in transitioning from the use of deliberative (cognitive) strategies to more automatic action selection?
- - What are the relevant error signals for automatically (and finely) recalibrating our sensorimotor maps in the face of ever-changing environments and body states (i.e., sensorimotor adaptation)?
+ - What are the relevant error signals for automatically, and precisely, recalibrating our sensorimotor maps (i.e., implicit adaptation) in the face of ever-changing environments and body states?
  - How do vision and proprioception interact to guide our movements? 
- - How do  neurologic disease processes (e.g., stroke or Parkinson's disease) differentially impact specific components of motor control and learning? 
+ - How do  neurologic disease processes, like stroke or Parkinson's disease, impact specific components of motor control and learning? 
 
 ### Approach  
 **Motor psychophysics**       
-Our behavioral experiments incorporate virtual reality and robotics so that we can manipulate the visual and somatosensory information provided to participants. In this manner, we can assess unperturbed reaching as well as responses to different types of error signals.  
+Our behavioral experiments incorporate virtual reality and robotics so that we can carefully manipulate the visual and somatosensory information provided to participants, all in a gamified environment. In this manner, we can assess unperturbed reaching as well as responses to different types of error signals. By precisely controlling the inputs to, and measuring the outputs from, the system (in this case, a human participant), we make inferences about the computations being performed by the brain.  
 
 **Computational modeling**      
 We use modeling to formalize, test, and refine our theories of the computations involved in learning and adapting motor skills. We apply different modeling approaches (e.g., Bayesian, reinforcement learning, state-space models) depending on the question. The behavioral data we collect often serve as a testbed for our models. In a complementary manner, our models also help generate new hypotheses and future experiments that advance our understanding of the processes under investigation.  
