@@ -2,6 +2,9 @@
 title: Publication
 permalink: /publication/
 ---
+
+### 2023 
+
 [_bayes-toolbox: A Python package for Bayesian statistics_](https://psyarxiv.com/r3kxp/)<br>
 Hyosub E Kim<br>
 PsyArXiv, 2023
@@ -9,6 +12,8 @@ PsyArXiv, 2023
 [_A reliable and efficient adaptive Bayesian method to assess static lower limb proprioception._](https://www.sciencedirect.com/science/article/abs/pii/S0165027023000948?via%3Dihub)<br>
 Jonathan M Wood, Susanne M Morton, Hyosub E Kim<br>
 Journal of Neuroscience Methods, 2023
+
+### 2022
 
 [_Understanding implicit sensorimotor adaptation as a process of proprioceptive re-alignment_](https://elifesciences.org/articles/76639)<br>
 Jonathan S Tsay, Hyosub Kim, Adrian M Haith, Richard B Ivry<br>
@@ -33,6 +38,8 @@ JoVE (Journal of Visualized Experiments), 2022
 [_Neuromatch Academy: a 3-week, online summer school in computational neuroscience_](https://dro.dur.ac.uk/37609/1/37609.pdf)<br>
 Bernard t Hart, Titipat Achakulvisut, Ayoade Adeyemi, Athena Akrami, Bradly Alicea, Alicia Alonso-Andres, Diego Alzate-Correa, Arash Ash, Jesus Ballesteros, Aishwarya Balwani, Eleanor Batty, Ulrik Beierholm, Ari Benjamin, Upinder Bhalla, Gunnar Blohm, Joachim Blohm, Kathryn Bonnen, Marco Brigham, Bingni Brunton, John Butler, Brandon Caie, N Gajic, Sharbatanu Chatterjee, Spyridon Chavlis, Ruidong Chen, You Cheng, Hm Chow, Raymond Chua, Yunwei Dai, Isaac David, Eric DeWitt, Julien Denis, Alish Dipani, Arianna Dorschel, Jan Drugowitsch, Kshitij Dwivedi, Sean Escola, Haoxue Fan, Roozbeh Farhoodi, Yicheng Fei, Pierre-Étienne Fiquet, Lorenzo Fontolan, Jeremy Forest, Yuki Fujishima, Byron Galbraith, Mario Galdamez, Richard Gao, Julijana Gjorgjieva, Alexander Gonzalez, Qinglong Gu, Yueqi Guo, Ziyi Guo, Pankaj Gupta, Busra Gurbuz, Caroline Haimerl, Jordan Harrod, Alexandre Hyafil, Martin Irani, Daniel Jacobson, Michelle Johnson, Ilenna Jones, Gili Karni, Robert Kass, Hyosub Kim, Andreas Kist, Randal Koene, Konrad Kording, Matthew Krause, Arvind Kumar, Norma Kühn, Ray Lc, Matthew Laporte, Junseok Lee, Songting Li, Sikun Lin, Yang Lin, Shuze Liu, Tony Liu, Jesse Livezey, Linlin Lu, Jakob Macke, Kelly Mahaffy, A Martins, Nicolás Martorell, Manolo Martínez, Marcelo Mattar, Jorge Menendez, Kenneth Miller, Patrick Mineault, Nosratullah Mohammadi, Yalda Mohsenzadeh, Elenor Morgenroth, Taha Morshedzadeh, Alice Mosberger, Madhuvanthi Muliya, Marieke Mur, John Murray, Yashas Nd, Richard Naud, Prakriti Nayak, Anushka Oak, Itzel Castillo, Seyedmehdi Orouji, Jorge Otero-Millan, Marius Pachitariu, Biraj Pandey, Renato Paredes, Jesse Parent, Il Park, Megan Peters, Xaq Pitkow, Panayiota Poirazi, Haroon Popal, Sandhya Prabhakaran, Tian Qiu, Srinidhi Ragunathan, Raul Rodriguez-Cruces, David Rolnick, Ashish Sahoo, Saeed Salehinajafabadi, Cristina Savin, Shreya Saxena, Paul Schrater, Karen Schroeder, Alice Schwarze, Madineh Sedigh-Sarvestani, K Sekhar, Reza Shadmehr, Maryam Shanechi, Siddhant Sharma, Eric Shea-Brown, Krishna Shenoy, Carolina Shimabukuro, Sergey Shuvaev, Man Sin, Maurice Smith, Nicholas Steinmetz, Karolina Stosio, Elizabeth Straley, Gabrielle Strandquist, Carsen Stringer, Rimjhim Tomar, Ngoc Tran, Sofia Triantafillou, Lawrence Udeigwe, Davide Valeriani, Vincent Valton, Maryam Vaziri-Pashkam, Peter Vincent, Gal Vishne<br>
 Journal of Open Source Education, 2022
+
+### 2021
 
 [_The consistency of prior movements shapes locomotor use-dependent learning_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8431821/)<br>
 Jonathan M Wood, Susanne M Morton, Hyosub E Kim<br>
@@ -66,6 +73,8 @@ Annual review of psychology, 2021
 Jonathan S Tsay, Guy Avraham, Hyosub E Kim, Darius E Parvin, Zixuan Wang, Richard B Ivry<br>
 Journal of neurophysiology, 2021
 
+### 2020
+
 [_Distinct processing of sensory-prediction error and target error during implicit motor adaptation_](https://drive.google.com/file/d/1mwL6u2IiYosXZWDtXYq7CrvJ5Z9uIi3T/view)<br>
 Jonathan S Tsay, Adrian M Haith, Richard B Ivry, Hyosub E Kim<br>
 Proc. Motor Learning and Motor Control, 2020
@@ -78,6 +87,8 @@ Proc. Motor Learning and Motor Control, 2020
 Jonathan M Wood, Hyosub E Kim, Margaret A French, Darcy S Reisman, Susanne M Morton<br>
 Journal of neurophysiology, 2020
 
+### 2019
+
 [_The effect of visual uncertainty on implicit sensorimotor adaptation_](https://drive.google.com/file/d/1v9q-IgcWSiN8js6xcD01AJjddMNbrfrW/view)<br>
 Jonathan S Tsay, Guy Avraham, Hyosub E Kim, Darius E Parvin, Zixuan Wang, Richard B Ivry<br>
 Proc. Motor Learning and Motor Control, 2019
@@ -85,6 +96,8 @@ Proc. Motor Learning and Motor Control, 2019
 [_The influence of task outcome on implicit motor learning_](https://elifesciences.org/articles/39882.pdf)<br>
 Hyosub E Kim, Darius E Parvin, Richard B Ivry<br>
 Elife, 2019
+
+### 2018
 
 [_A single exercise bout and locomotor learning after stroke: physiological, behavioural, and computational outcomes_](https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/jp275881)<br>
 Charalambos C Charalambous, Carolina C Alcantara, Margaret A French, Xin Li, Kathleen S Matt, Hyosub E Kim, Susanne M Morton, Darcy S Reisman<br>
@@ -97,6 +110,8 @@ Communications Biology, 2018
 [_Strategies to augment volitional and reflex function may improve locomotor capacity following incomplete spinal cord injury_](https://journals.physiology.org/doi/full/10.1152/jn.00051.2017)<br>
 Kristan A Leech, Hyosub E Kim, T George Hornby<br>
 Journal of neurophysiology, 2018
+
+### 2017 and earlier
 
 [_Implicit rewards modulate sensorimotor adaptation_](https://drive.google.com/file/d/0B7xS2wivJAokYWxhX0RPam1JalE/view?resourcekey=0-w90XnDnxrwzMCvg2WC8wVw)<br>
 Hyosub E Kim, Darius E Parvin, Matthew A Hernandez, Richard B Ivry<br>
