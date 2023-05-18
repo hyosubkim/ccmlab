@@ -11,6 +11,7 @@ twitter:
 
 <!-- <i class="fa fa-envelope-o"></i> `hyosub.kim@ubc.ca` -->
 <a href="mailto:hyosub.kim@ubc.ca"><i class="fa fa-envelope-o"></i> hyosub.kim@ubc.ca</a>
+<i class="fa fa-newspaper-o"></i> [CV (pdf)](/documents/cv-hyosub.pdf)
 
 <!-- **Office** -->
 ***More info coming soon!***
