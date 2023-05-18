@@ -10,8 +10,7 @@ twitter:
 - _Assistant Professor, School of Kinesiology, The University of British Columbia_<br>
 
 <!-- <i class="fa fa-envelope-o"></i> `hyosub.kim@ubc.ca` -->
-<a href="mailto:hyosub.kim@ubc.ca"><i class="fa fa-envelope-o"></i> hyosub.kim@ubc.ca</a>
-<i class="fa fa-newspaper-o"></i> [CV (pdf)](/documents/cv-hyosub.pdf)
+<a href="mailto:hyosub.kim@ubc.ca"><i class="fa fa-envelope-o"></i> hyosub.kim@ubc.ca</a> | <a href="/documents/cv-hyosub.pdf"><i class="fa fa-file-pdf-o"></i> CV</a>
 
 <!-- **Office** -->
 ***More info coming soon!***
