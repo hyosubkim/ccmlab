@@ -4,7 +4,7 @@ This is a repository for [CCM's lab page](http://ccmlab.org/). The website uses 
 
 ## Run the page locally using Jekyll
 
-To run locally, follow instruction [here](https://jekyllrb.com/) to install Jekyll then run `jekyll serve` to see in `localhost:4000`. Here is a brief install guidelines.
+To run locally, follow instructions [here](https://jekyllrb.com/) to install Jekyll then run `jekyll serve` to see in `localhost:4000`. Here are brief install guidelines.
 
 ```bash
 sudo gem install jekyll
@@ -14,11 +14,11 @@ jekyll serve
 
 ## Editing the lab website
 
-Below, we explain how to edit the lab webpage
+Below, we explain how to edit the lab webpage:
 
 ### Add posts
 
-It's very easy to add post. All the posts are located in `_posts` folder. It arrangement is based on
+It's very easy to add a post. All the posts are located in the `_posts` folder. Its arrangement is based on
 date. Each post can be written in markdown format. You just have to state headers before writing: `title`, `description` and `categories`. `description` will be shown when you share on social media like Facebook or twitter. See the following headers:
 
 ``` markdown
@@ -45,11 +45,11 @@ You can add yourself to the page in `_people` folder just create file name `<fir
 
 ``` markdown
 ---
-name: Eva Dyer
-position: postdoc
-avatar: eva.jpg
+name: Hyosub Kim
+position: gradstudent
+avatar: hyosub.jpg
 twitter:
-joined: 2014
+joined: 2023
 ---
 ```
 
