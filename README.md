@@ -1,6 +1,6 @@
-# Kording lab page
+# Computation, Cognition, and Movement Lab webpage
 
-This is repository for [Kording lab page](http://kordinglab.com/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
+This is a repository for [CCM's lab page](http://ccmlab.org/). The website uses Jekyll to run our Github page. Thanks to the [Kording Lab](https://kordinglab.com/) at UPenn for providing their template!
 
 ## Run the page locally using Jekyll
 
