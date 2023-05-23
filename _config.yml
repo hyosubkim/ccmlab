@@ -29,9 +29,9 @@ nav:
   - name:           "people"
     href:           "/people"
   - name:           "publications"
-    href:           "/publication"
-#   - name:           "blog"
-#     href:           "/blog"
+    href:           "/publications"
+  - name:           "positions"
+    href:           "/positions"
 #   - name:           "resources"
 #     href:           "/resources"
 

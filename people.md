@@ -65,7 +65,7 @@ permalink: /people/
 | Heran Yosef | Undergraduate RA and lab manager (2020-2022) | Med school student at Thomas Jefferson University |
 | Nicholas Sekulski | Undergraduate RA (2021-2022) | Master's student in Biopharmaceutical Sciences at University of Delaware |
 | [Kaneel Senevirathne](https://www.linkedin.com/in/kaneel123) | Master's student (2020-2021) | AI/ML Researcher at Johns Hopkins University |
-| Megan Philips | Summer rotation student (2020) | Undergraduate Psych student at Wayne State University |
+| Megan Phillips | Summer rotation student (2020) | Undergraduate Psych student at Wayne State University |
 | Gabby Kowalski | Lab manager (2020) | OTD student at The Ohio State University |
 | Chanel Smith | Undergraduate RA (2019-2020) | Quality Control Microbiologist at AGC |
 

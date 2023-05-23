@@ -1,6 +1,6 @@
 ---
 title: Publication
-permalink: /publication/
+permalink: /publications/
 ---
 
 ### 2023 
