@@ -5,6 +5,10 @@ permalink: /publications/
 
 ### 2023 
 
+[_Strategic processes in sensorimotor learning: reasoning, refinement, and retrieval._](https://psyarxiv.com/x4652)<br>
+Jonathan S Tsay, Hyosub E Kim, Samuel D McDougle, Jordan Taylor, Adrian Haith, Guy Avraham, John W Krakauer, Anne Collins, Richard Ivry<br>
+PsyArXiv, 2023  
+
 [_bayes-toolbox: A Python package for Bayesian statistics_](https://psyarxiv.com/r3kxp/)<br>
 Hyosub E Kim<br>
 PsyArXiv, 2023
