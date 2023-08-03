@@ -27,7 +27,7 @@ layout: default
 <!--           <u>Happenings of the last few months</u> -->
           <span style="display: block; margin-bottom: 1em"></span>
           <div class="news">
-              {% capture now %}{{'now' | date: '%s' | minus: 7776000 %}}{% endcapture %}
+              {% capture now %}{{'now' | date: '%s' | minus: 31104000 %}}{% endcapture %}
               <ul style="list-style-position:outside;padding:20px" >
                 {% for new in site.data.news %}
                   {% capture date %}{{new.date | date: '%s' | plus: 0 %}}{% endcapture %}
