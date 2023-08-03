@@ -5,7 +5,7 @@ permalink: /publications/
 
 ### 2023 
 
-[_Strategic processes in sensorimotor learning: reasoning, refinement, and retrieval._](https://psyarxiv.com/x4652)<br>
+[_Strategic processes in sensorimotor learning: reasoning, refinement, and retrieval_](https://psyarxiv.com/x4652)<br>
 Jonathan S Tsay, Hyosub E Kim, Samuel D McDougle, Jordan Taylor, Adrian Haith, Guy Avraham, John W Krakauer, Anne Collins, Richard Ivry<br>
 PsyArXiv, 2023  
 
@@ -13,7 +13,7 @@ PsyArXiv, 2023
 Hyosub E Kim<br>
 PsyArXiv, 2023
 
-[_A reliable and efficient adaptive Bayesian method to assess static lower limb proprioception._](https://www.sciencedirect.com/science/article/abs/pii/S0165027023000948?via%3Dihub)<br>
+[_A reliable and efficient adaptive Bayesian method to assess static lower limb proprioception_](https://www.sciencedirect.com/science/article/abs/pii/S0165027023000948?via%3Dihub)<br>
 Jonathan M Wood, Susanne M Morton, Hyosub E Kim<br>
 Journal of Neuroscience Methods, 2023
 
