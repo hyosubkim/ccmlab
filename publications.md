@@ -5,6 +5,10 @@ permalink: /publications/
 
 ### 2023 
 
+[_Reinforcement learning during locomotion_](https://www.biorxiv.org/content/10.1101/2023.09.13.557581v1)<br>
+Jonathan M Wood, Hyosub E Kim, Susanne M Morton<br>
+bioRxiv, 2023
+
 [_Strategic processes in sensorimotor learning: reasoning, refinement, and retrieval_](https://psyarxiv.com/x4652)<br>
 Jonathan S Tsay, Hyosub E Kim, Samuel D McDougle, Jordan Taylor, Adrian Haith, Guy Avraham, John W Krakauer, Anne Collins, Richard Ivry<br>
 PsyArXiv, 2023  
