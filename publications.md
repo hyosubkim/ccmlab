@@ -13,9 +13,9 @@ bioRxiv, 2023
 Jonathan S Tsay, Hyosub E Kim, Samuel D McDougle, Jordan Taylor, Adrian Haith, Guy Avraham, John W Krakauer, Anne Collins, Richard Ivry<br>
 PsyArXiv, 2023  
 
-[_bayes-toolbox: A Python package for Bayesian statistics_](https://psyarxiv.com/r3kxp/)<br>
+[_bayes-toolbox: A Python package for Bayesian statistics_](https://joss.theoj.org/papers/10.21105/joss.05526)<br>
 Hyosub E Kim<br>
-PsyArXiv, 2023
+Journal of Open Source Software, 2023
 
 [_A reliable and efficient adaptive Bayesian method to assess static lower limb proprioception_](https://www.sciencedirect.com/science/article/abs/pii/S0165027023000948?via%3Dihub)<br>
 Jonathan M Wood, Susanne M Morton, Hyosub E Kim<br>
