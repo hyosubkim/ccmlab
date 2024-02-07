@@ -3,6 +3,12 @@ title: Publication
 permalink: /publications/
 ---
 
+### 2024
+
+[_Explicit and implicit locomotor learning in individuals with chronic hemiparetic stroke_](https://www.biorxiv.org/content/10.1101/2024.02.04.578807v1)<br>
+Jonathan M Wood, Elizabeth M Thompson, Henry Wright, Liam Festa, Susanne M Morton, Darcy S Reisman, Hyosub E Kim<br>
+bioRxiv, 2024
+
 ### 2023 
 
 [_Reinforcement learning during locomotion_](https://www.biorxiv.org/content/10.1101/2023.09.13.557581v1)<br>
