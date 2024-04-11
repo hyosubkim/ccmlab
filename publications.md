@@ -3,6 +3,10 @@ title: Publication
 permalink: /publications/
 ---
 
+[_The detrimental effect of stroke on motor adaptation_](https://www.medrxiv.org/content/10.1101/2024.03.21.24304376v1)<br>
+Sabrina S Abram, Jonathan S Tsay, Heran Yosef, Darcy S Reisman, Hyosub E Kim<br>
+medRxiv, 2024
+
 [_Reinforcement learning during locomotion_](https://www.eneuro.org/content/early/2024/02/29/ENEURO.0383-23.2024)<br>
 Jonathan M Wood, Hyosub E Kim, Susanne M Morton<br>
 eNeuro, 2024
