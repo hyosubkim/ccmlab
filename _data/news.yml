@@ -1,5 +1,5 @@
- - date: 2024-04-10
-   details: (April 10, 2024) Our meta-analysis of the impact of stroke on motor adaptation is now available as a <a href="https://www.medrxiv.org/content/10.1101/2024.03.21.24304376v1">medRxiv preprint</a>. Thanks to Sabrina Abram and Jonathan Tsay for leading this one!
+- date: 2024-04-10
+  details: (April 10, 2024) Our meta-analysis of the impact of stroke on motor adaptation is now available as a <a href="https://www.medrxiv.org/content/10.1101/2024.03.21.24304376v1">medRxiv preprint</a>. Thanks to Sabrina Abram and Jonathan Tsay for leading this one!
 
 - date: 2024-03-05
   details: (March 5, 2024) Jonathan W's study on <a href="https://www.eneuro.org/content/early/2024/02/29/ENEURO.0383-23.2024">Reinforcement learning during locomotion</a> is now published in eNeuro! 
@@ -30,3 +30,6 @@
 
 - date: 2023-04-26
   details: (April 26, 2023) New <a href="https://psyarxiv.com/r3kxp/">preprint</a> submitted to PsyArXiv on bayes-toolbox, our Python package for Bayesian statistical modeling.
+
+- date: 2023-04-17
+  details: (April 17, 2023) Hyosub gave a presentation at <a href="https://discourse.pymc.io/t/pymcon-web-series-05-the-bayesian-statistics-toolbox-april-17th-2023-hyosub-kim/11845">PyMCon</a> on <a href="https://hyosubkim.github.io/bayes-toolbox/">bayes-toolbox</a> (formerly known as the Bayesian Statistics Toolbox). 
