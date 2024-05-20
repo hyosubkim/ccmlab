@@ -63,6 +63,8 @@ permalink: /people/
 | Jonathan Wood (co-advised with Susanne Morton) | PhD student (2018-2023) | Postdoc at Moss Rehabilitation Institute | 
 | [Jonathan Tsay](https://www.tsaylab.com/contact) (primary advisor: Rich Ivry) | PhD student (2018-2023) | Starting as Asst. Professor at Carnegie Mellon University in 2024 |
 | John Buggeln | PhD student (2022-2023) | PhD student in Cashaback Lab at University of Delaware |
+| Amanda Arteaga | Undergraduate RA (2024) |       |
+| Rebecca Niven | Post-bacc RA (2023-2024) |       |
 | Joie Tang | Undergraduate RA and lab manager (2019-2023) | DPT student at University of Delaware |
 | Heran Yosef | Undergraduate RA and lab manager (2020-2022) | Med school student at Thomas Jefferson University |
 | Nicholas Sekulski | Undergraduate RA (2021-2022) | Master's student in Biopharmaceutical Sciences at University of Delaware |

@@ -1,6 +1,6 @@
 ---
 name: Amanda Arteaga
-position: undergrad
+position: alumni
 avatar: amanda.jpg
 twitter: 
 ---

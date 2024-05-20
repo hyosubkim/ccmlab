@@ -1,6 +1,6 @@
 ---
 name: Rebecca Niven
-position: postbacc
+position: alumni
 avatar: douglas-fir.jpg
 twitter: 
 ---
