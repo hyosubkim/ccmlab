@@ -1,6 +1,6 @@
 ---
 name: You?
-position: gradstudent
+position: alumni
 avatar: douglas-fir.jpg
 twitter: 
 ---

@@ -1,5 +1,5 @@
 ---
-name: Jeremy Thomas
+name: Jeremy Thomas (Co-supervised 
 position: gradstudent
 avatar: Jeremy.jpg
 twitter: 
