@@ -1,7 +1,7 @@
 ---
 name: Jeremy Thomas
 position: gradstudent
-avatar: douglas-fir.jpg
+avatar: Jeremy.jpg
 twitter: 
 ---
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

@@ -1,7 +1,7 @@
 ---
 name: Lisa Liu
 position: undergrad
-avatar: lisa-liu.jpg
+avatar: lisa-liu.JPEG
 twitter: 
 ---
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
