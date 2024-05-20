@@ -1,5 +1,5 @@
 ---
-name: Jeremy Thomas (Co-supervised by Dr. Miriam Spering)  
+name: Jeremy Thomas 
 position: gradstudent
 avatar: Jeremy.jpg
 twitter: 
