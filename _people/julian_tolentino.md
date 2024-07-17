@@ -1,7 +1,7 @@
 ---
 name: Julian Tolentino
 position: undergrad
-avatar: julian_tolentino.jpg
+avatar: julian_tolentino.jpeg
 twitter: 
 ---
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
