@@ -2,6 +2,13 @@
 title: Publication
 permalink: /publications/
 ---
+[_Fundamental processes in sensorimotor learning: Reasoning, refinement, and retrieval_](https://elifesciences.org/articles/91839)<br>
+Jonathan S Tsay, Hyosub E Kim, Samuel D McDougle, Jordan Taylor, Adrian Haith, Guy Avraham, John W Krakauer, Anne Collins, Richard Ivry<br>
+eLife, 2024
+
+[_Evidence for an efferent-based prediction contributing to implicit motor adaptation_](https://www.biorxiv.org/content/10.1101/2024.07.29.605662v1)<br>
+Annika Szarka, Hyosub E Kim, J Timothy Inglis, Romeo Chua<br>
+bioRxiv, 2024
 
 [_The detrimental effect of stroke on motor adaptation_](https://www.medrxiv.org/content/10.1101/2024.03.21.24304376v1)<br>
 Sabrina S Abram, Jonathan S Tsay, Heran Yosef, Darcy S Reisman, Hyosub E Kim<br>
@@ -14,10 +21,6 @@ eNeuro, 2024
 [_Explicit and implicit locomotor learning in individuals with chronic hemiparetic stroke_](https://www.biorxiv.org/content/10.1101/2024.02.04.578807v1)<br>
 Jonathan M Wood, Elizabeth M Thompson, Henry Wright, Liam Festa, Susanne M Morton, Darcy S Reisman, Hyosub E Kim<br>
 bioRxiv, 2024
-
-[_Strategic processes in sensorimotor learning: reasoning, refinement, and retrieval_](https://psyarxiv.com/x4652)<br>
-Jonathan S Tsay, Hyosub E Kim, Samuel D McDougle, Jordan Taylor, Adrian Haith, Guy Avraham, John W Krakauer, Anne Collins, Richard Ivry<br>
-PsyArXiv, 2023  
 
 [_bayes-toolbox: A Python package for Bayesian statistics_](https://joss.theoj.org/papers/10.21105/joss.05526)<br>
 Hyosub E Kim<br>
