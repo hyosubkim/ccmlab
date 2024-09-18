@@ -2,6 +2,10 @@
 title: Publication
 permalink: /publications/
 ---
+[_Explicit and implicit locomotor learning in individuals with chronic hemiparetic stroke_](https://journals.physiology.org/doi/abs/10.1152/jn.00156.2024)<br>
+Jonathan M Wood, Elizabeth M Thompson, Henry Wright, Liam Festa, Susanne M Morton, Darcy S Reisman, Hyosub E Kim<br>
+Journal of Neurophysiology, 2024
+
 [_Fundamental processes in sensorimotor learning: Reasoning, refinement, and retrieval_](https://elifesciences.org/articles/91839)<br>
 Jonathan S Tsay, Hyosub E Kim, Samuel D McDougle, Jordan Taylor, Adrian Haith, Guy Avraham, John W Krakauer, Anne Collins, Richard Ivry<br>
 eLife, 2024
@@ -17,10 +21,6 @@ medRxiv, 2024
 [_Reinforcement learning during locomotion_](https://www.eneuro.org/content/early/2024/02/29/ENEURO.0383-23.2024)<br>
 Jonathan M Wood, Hyosub E Kim, Susanne M Morton<br>
 eNeuro, 2024
-
-[_Explicit and implicit locomotor learning in individuals with chronic hemiparetic stroke_](https://www.biorxiv.org/content/10.1101/2024.02.04.578807v1)<br>
-Jonathan M Wood, Elizabeth M Thompson, Henry Wright, Liam Festa, Susanne M Morton, Darcy S Reisman, Hyosub E Kim<br>
-bioRxiv, 2024
 
 [_bayes-toolbox: A Python package for Bayesian statistics_](https://joss.theoj.org/papers/10.21105/joss.05526)<br>
 Hyosub E Kim<br>
