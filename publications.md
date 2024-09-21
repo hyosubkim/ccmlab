@@ -3,7 +3,7 @@ title: Publication
 permalink: /publications/
 ---
 [_A Bayesian causal inference model of implicit motor adaptation to internally versus externally generated errors_](https://drive.google.com/file/d/1pqVA9eP48SLvxKDewo2uTBIhdZ8rSdLr/view)<br>
-Hyosub E Kim, Romeo Chua, Davin Hu, Lisa Liu
+Hyosub E Kim, Romeo Chua, Davin Hu, Lisa Liu<br>
 Proc. Motor Learning and Motor Control, 2024
 
 [_Explicit and implicit locomotor learning in individuals with chronic hemiparetic stroke_](https://journals.physiology.org/doi/abs/10.1152/jn.00156.2024)<br>
