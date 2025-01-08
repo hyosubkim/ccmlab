@@ -3,7 +3,7 @@ title: Publication
 permalink: /publications/
 ---
 
-[_The detrimental effect of stroke on motor adaptation_](https://journals.sagepub.com/doi/full/10.1177/15459683241309588)</br>
+[_The detrimental effect of stroke on motor adaptation_](https://journals.sagepub.com/doi/full/10.1177/15459683241309588)<br>
 Sabrina S Abram, Jonathan S Tsay, Heran Yosef, Darcy S Reisman, Hyosub E Kim<br>
 Neurorehabilitation & Neural Repair, 2025
 
