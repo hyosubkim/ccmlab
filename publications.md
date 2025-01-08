@@ -2,6 +2,11 @@
 title: Publication
 permalink: /publications/
 ---
+
+[_The detrimental effect of stroke on motor adaptation_](https://journals.sagepub.com/doi/full/10.1177/15459683241309588)</br>
+Sabrina S Abram, Jonathan S Tsay, Heran Yosef, Darcy S Reisman, Hyosub E Kim<br>
+Neurorehabilitation & Neural Repair, 2025
+
 [_A Bayesian causal inference model of implicit motor adaptation to internally versus externally generated errors_](https://drive.google.com/file/d/1pqVA9eP48SLvxKDewo2uTBIhdZ8rSdLr/view)<br>
 Hyosub E Kim, Romeo Chua, Davin Hu, Lisa Liu<br>
 Proc. Motor Learning and Motor Control, 2024
@@ -18,9 +23,6 @@ eLife, 2024
 Annika Szarka, Hyosub E Kim, J Timothy Inglis, Romeo Chua<br>
 bioRxiv, 2024
 
-[_The detrimental effect of stroke on motor adaptation_](https://www.medrxiv.org/content/10.1101/2024.03.21.24304376v1)<br>
-Sabrina S Abram, Jonathan S Tsay, Heran Yosef, Darcy S Reisman, Hyosub E Kim<br>
-medRxiv, 2024
 
 [_Reinforcement learning during locomotion_](https://www.eneuro.org/content/early/2024/02/29/ENEURO.0383-23.2024)<br>
 Jonathan M Wood, Hyosub E Kim, Susanne M Morton<br>
