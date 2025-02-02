@@ -3,6 +3,10 @@ title: Publication
 permalink: /publications/
 ---
 
+[_A Bayesian decision-making model of implicit motor learning from internal and external errors_](https://www.biorxiv.org/content/10.1101/2025.01.30.635749v1)<br>
+Hyosub E Kim, Romeo Chua, Davin Hu<br>
+bioRxiv, 2025
+
 [_The detrimental effect of stroke on motor adaptation_](https://journals.sagepub.com/doi/full/10.1177/15459683241309588)<br>
 Sabrina S Abram, Jonathan S Tsay, Heran Yosef, Darcy S Reisman, Hyosub E Kim<br>
 Neurorehabilitation & Neural Repair, 2025
